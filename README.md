@@ -10,6 +10,7 @@
 * Moment JS
 * React Fast Marquee
 * React Icons
+* Context API
 
 > React Component:
 >> - ErrorPage
