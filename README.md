@@ -1,11 +1,11 @@
-# react-boilerplate-1
+# react-boilerplate-2
 
 > Use this boilerplate just clone this project and run `npm install`
 
 ### This boilerplate includes:
 
 * React Route (Custom)
-* React Bootstrap
+* Tailwind with Vite
 * React Toastity
 * Moment JS
 * React Fast Marquee

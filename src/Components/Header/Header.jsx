@@ -6,7 +6,7 @@ const Header = () => {
     const {user} = useContext(AuthContext);
 
     return (
-        <div className='container py-5 my-5 text-center bg-warning'>
+        <div className='container mx-auto py-10 my-10 text-center text-white bg-zinc-950'>
             <h1>This is Header, {user.name}</h1>
         </div>
     );
