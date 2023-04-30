@@ -10,3 +10,10 @@
 * Moment JS
 * React Fast Marquee
 * React Icons
+
+> React Component:
+>> - ErrorPage
+>> - Main Layout
+>> + Header
+>> + Home
+>> + Footer
