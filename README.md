@@ -6,6 +6,7 @@
 
 * React Route (Custom)
 * Tailwind with Vite
+* Daisy UI
 * React Toastity
 * Moment JS
 * React Fast Marquee
